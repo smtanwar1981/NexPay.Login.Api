@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "90d7ONoRkZwueh5I75EwKP4ikLG3MmqveSjtVlpv3b1aRwX2wYF2yaXuWSycFUNB0bOCAbCGQmyJixrv+dr51A==",
+  "success": true,
+  "projectFilePath": "C:\\tuts\\NexPay\\NexPay.Login.Api\\NexPay.Publisher\\NexPay.Publisher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sunny\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\sunny\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\sunny\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\sunny\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
